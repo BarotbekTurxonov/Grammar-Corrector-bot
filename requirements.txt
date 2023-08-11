@@ -1,0 +1,4 @@
+aiogram~=2.22.2
+beautifulsoup4
+environs~=8.0.0
+openai
